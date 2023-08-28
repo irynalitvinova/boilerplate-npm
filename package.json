@@ -2,11 +2,15 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "iryna",
 	"description": "A project that does something awesome and where I practice backend",
-	"keywords": [ "freecodecamp", "descriptive", "related", "words" ],
+	"keywords": [
+		"freecodecamp",
+		"descriptive",
+		"related",
+		"words"
+	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
-		"@freecodecamp/example": "^1.2.13", 
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
