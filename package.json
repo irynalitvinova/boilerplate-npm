@@ -3,6 +3,7 @@
 	"author": "iryna",
 	"description": "A project that does something awesome and where I practice backend",
 	"keywords": [ "freecodecamp", "descriptive", "related", "words" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
